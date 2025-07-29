@@ -1,4 +1,5 @@
 // map.js – GeoJSON Loader for Far North District Alerts
+// Version 1.0.1 simplified geojson
 (function (global) {
   const GEOJSON_KEY = "farNorthGeoJSON";
   const GEOJSON_TIMESTAMP_KEY = "farNorthGeoJSON_timestamp";
