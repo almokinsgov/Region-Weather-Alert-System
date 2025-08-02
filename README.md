@@ -1,4 +1,5 @@
-# Region Weather Alert System
+# Region Weather Alert System - Pre - ALPHA 0.1.3
+
 
 A lightweight, configurable frontend alert display module that fetches and displays CAP-formatted MetService weather alerts for a specific geographic region (e.g. Far North District). This system integrates with GeoJSON boundaries, optional proxy usage, and a floating HTML alert interface for local government or public-facing websites.
 
@@ -61,7 +62,7 @@ This tool reads from MetService’s [public CAP feed]([https://alerts.metservice
 
 ## 🙌 Credits
 
-Created by [Your Name or Team] for public alert transparency and local government usability. Built with:
+Created by Amorangi Mathews for public alert transparency and local government usability. Built with:
 
 - [MetService CAP Alerts](https://metservice.com)
 - [Turf.js](https://turfjs.org) for spatial logic
